@@ -16,7 +16,8 @@ My name is Santhosh Thottingal. Currently working as Principal Software Engineer
 * [Manjari](https://github.com/smc/manjari) - Malayalam typeface I designed. Very popular and my most successful project so far.
 * [Chilanka](https://github.com/smc/chilanka) - Handwriting style Malayalam typeface I desgined.
 * [Gayathri](https://github.com/smc/gayathri) - A typeface I helped developing and releasing. Technically and aesthetically excellant font.
-* [Nupuram](https://github.com/smc/nupuram) - Recently released Malayalam typeface superfamily. 
+* [Nupuram](https://github.com/smc/nupuram) - Recently released Malayalam typeface superfamily. Variable fonts, Color fonts. Designed using Metapost
+* [Malini](https://github.com/smc/malini) - Work in progress Malayalam typeface for body text. Variable font. Metapost glyph definitions.
 
 And all other typefaces by SMC project - I have contributed in technology, maintanance. Have a look at [SMC Fonts page](https://smc.org.in/fonts)
 
