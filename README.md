@@ -6,8 +6,6 @@ My name is Santhosh Thottingal. Currently working as Principal Software Engineer
 
 ### Wikipedia related
 
-* [Wikivue](https://github.com/santhoshtr/wikivue) - A Vuejs powered modern, single page, progressive, offline capable web application for Wikipedia. Planning to make it fully p2p capable
-* [Decentralized Wikipedia](https://github.com/santhoshtr/wikipedia-ipfs) - A technical explorations to put the whole wikipedia in decentralized/p2p web. It has architecture notes and some proof of concept implementation.
 * [Wikipedia article translation system](https://github.com/wikimedia/mediawiki-extensions-ContentTranslation/) - This is what I work at Wikimedia Foundation as part of my job. So far helped creating 600K wikipedia articles in 100+ languages
 * [Banana-i18n](https://github.com/wikimedia/banana-i18n) - A javascript internationalization library using the localization format used in Wikipedia projects
 
